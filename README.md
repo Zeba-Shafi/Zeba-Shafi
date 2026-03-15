@@ -23,7 +23,7 @@ I'm a recent NYU double major in **Biology** (College of Arts & Sciences) and **
 
 ## Get in touch
 
-📧 [zeba.shafi@nyu.edu]("mailto:zeba.shafi@nyu.edu") 
+📧 <zeba.shafi@nyu.edu>
 <!--
 🔗 [LinkedIn](https://www.linkedin.com/in/zeba-shafi) ← *update with your actual URL*
 **Zeba-Shafi/Zeba-Shafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
